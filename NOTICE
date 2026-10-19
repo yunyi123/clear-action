@@ -1,0 +1,21 @@
+Clear Action / 清晰行动
+Copyright 2026 yunyi123
+
+本项目由 yunyi123 确定融合需求、使用偏好与边界，Codex 协助编写与验证。
+技能规则在 2026-10-19 按该需求进行中文重写和融合调整；不是上游原文件的未修改副本。
+具体取舍、贡献范围和验证限制见 README.md。
+
+借鉴来源：
+
+1. i-have-adhd — https://github.com/ayghri/i-have-adhd
+   Copyright (c) 2026 Ayoub Ghriss
+   MIT License，全文保留于 licenses/i-have-adhd-MIT.txt。
+   参考提交：1ecea1993b7fce257ffbd686c070948b5e07eda6
+
+2. Caveman — https://github.com/JuliusBrussee/caveman
+   Copyright 2026 Julius Brussee
+   Apache License, Version 2.0，全文见 LICENSE。
+   参考提交：bad48a0e1df55e05e3f52249afa35ecc1909ee76
+
+本仓库只借鉴输出风格规则，未包含上游运行时、字体、代理或其其他第三方组件。
+本说明不表示上游作者认可或维护本项目。
